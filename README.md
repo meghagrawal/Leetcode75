@@ -1,5 +1,5 @@
-# Leetcode75
+## Leetcode75
 
-Repository for the code I submit for Leetcode75 challenge problems. 
+Repository for the code I submit for Leetcode75 challenge. 
 
 Language: Python3
